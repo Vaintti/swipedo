@@ -1,3 +1,3 @@
-# swipedo
+# Swipedo
 
 Gesture based todos app
